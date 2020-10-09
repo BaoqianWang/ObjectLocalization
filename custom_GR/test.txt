@@ -1,0 +1,2 @@
+/home/nvidia/darknet/custom_GR/images/trainImage80.jpg
+/home/nvidia/darknet/custom_GR/images/trainImage880.jpg

@@ -1,0 +1,5 @@
+classes=1
+train=custom_GR/train.txt
+valid=custom_GR/test.txt
+names=custom_GR/objects.names
+backup=backup
